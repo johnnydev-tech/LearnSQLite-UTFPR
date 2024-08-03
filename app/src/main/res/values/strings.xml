@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LearnSQLite</string>
+    <string name="delete">Deletar</string>
+    <string name="save">Salvar</string>
+    <string name="search">Buscar</string>
+    <string name="edit">Editar</string>
+    <string name="c_digo">Código</string>
+    <string name="telefone">Telefone:</string>
+    <string name="nome">Nome:</string>
+    <string name="c_d">Cód:</string>
+    <string name="telefonetv">Telefone</string>
+    <string name="nomela">Nome</string>
+    <string name="telefoneppp">Telefone</string>
+</resources>
